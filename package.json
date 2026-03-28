@@ -1,0 +1,25 @@
+{
+  "name": "@Cancarutu2012/FlixerTV",
+  "appName": "Flixer TV",
+  "appPath": "app/index.html"
+  "version": "1.13.2",
+  "description": "created by: Mate Radetzky (Cancarutu2012 on GitHub)",
+  "packageType": "app",
+  "websiteURL": "https://flixer.su/",
+  "author": "Mate R",
+  "serviceFile": "dist/service.js",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious"
+  ],
+  "repository": {
+    "url": "https://github.com/cancarutu2012/flixertv"
+  },
+  "license": "GPL-3.0-only"
+}
